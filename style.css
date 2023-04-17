@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.cabecalho {
+    background-color: #3e5479;
+    color: white;
+    display:flex ;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.cabecalho-imagem { 
+    width: 20%;
+}
+.cabecalho-imagem { 
+    display: inline-block;
+    margin: 0 16px;
+}
+
+.escola{
+    background-color: #3863a8;
+    color: honeydew;
+    font-size:20px;
+    padding: 250px 200px;
+
+}
+.escola-titulo { 
+    padding: 24px 0;
+}
